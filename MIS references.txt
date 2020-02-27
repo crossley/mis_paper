@@ -1,0 +1,225 @@
+1. Shadmehr, R., Smith, M. A., and Krakauer, J. W. (2010). Error correction,
+sensory prediction, and adaptation in motor control. Annu. Rev. Neurosci. 33,
+89–108.
+
+2. Krakauer, J. W., and Mazzoni, P. (2011). Human sensorimotor learning:
+adaptation, skill, and beyond. Curr. Opin. Neurobiol. 21, 636–644.
+
+3. Cuschieri, A. (1995). Whither minimal access surgery: tribulations and
+expectations. Am. J. Surg. 169, 9–19.
+
+4. Braga, M., Vignali, A., Gianotti, L., Zuliani, W., Radaelli, G., Gruarin, P.,
+Dellabona, P., and Di Carlo, V. (2002). Laparoscopic versus open colorectal
+surgery: a randomized trial on short-term outcome. Ann. Surg. 236, 759–66;
+disscussion 767.
+
+5. den Boer, K. T., de Jong, T., Dankelman, J., and Gouma, D. J. (2001).
+Problems with Laparoscopic Instruments: Opinions of Experts. Journal of
+Laparoendoscopic & Advanced Surgical Techniques 11, 149–155.
+
+6. Joice, P., Hanna, G. B., and Cuschieri, A. (1998). Ergonomic evaluation of
+laparoscopic bowel suturing. Am. J. Surg. 176, 373–378.
+
+7. Wentink, B. (2001). Eye-hand coordination in laparoscopy - an overview of
+experiments and supporting aids. Minim. Invasive Ther. Allied Technol. 10,
+155–162.
+
+8. Rattner, D. W. (1999). Beyond the laparoscope: minimally invasive surgery in
+the new millennium. Surgery 125, 19–22.
+
+9. Schauer, P., Ikramuddin, S., Hamad, G., and Gourash, W. (2003). The learning
+curve for laparoscopic Roux-en-Y gastric bypass is 100 cases. Surg. Endosc. 17,
+212–215.
+
+10. Heuer, H., and Sülzenbrück, S. (2013). Tool use in action: the mastery of
+complex visuomotor transformations. In Action science: foundations of an
+emerging discipline, W. Prinz, M. Beisert, and A. Herwig, eds. (The MIT Press),
+pp. 36–62.
+
+11. Prinz, W., Beisert, M., and Herwig, A. (2013). Action science: foundations
+of an emerging discipline W. Prinz, M. Beisert, and A. Herwig, eds. (The MIT
+Press).
+
+12. Pouget, A., and Snyder, L. H. (2000). Computational approaches to
+sensorimotor transformations. Nat. Neurosci. 3 Suppl, 1192–1198.
+
+13. Soechting, J. F., and Flanders, M. (1989). Errors in pointing are due to
+approximations in sensorimotor transformations. J. Neurophysiol. 62, 595–608.
+
+14. Sober, S. J., and Sabes, P. N. (2005). Flexible strategies for sensory
+integration during motor planning. Nat. Neurosci. 8, 490–497.
+
+15. Cunningham, H. A. (1989). Aiming error under transformed spatial mappings
+suggests a structure for visual-motor maps. J. Exp. Psychol. Hum. Percept.
+Perform. 15, 493–506.
+
+16. Krakauer, J. W. (2009). Motor learning and consolidation: the case of
+visuomotor rotation. Adv. Exp. Med. Biol. 629, 405–421.
+
+17. Krakauer, J. W., Pine, Z. M., Ghilardi, M. F., and Ghez, C. (2000). Learning
+of visuomotor transformations for vectorial planning of reaching trajectories.
+J. Neurosci. 20, 8916–8924.
+
+18. Oldfield, R. C. (1971). The assessment and analysis of handedness: the
+Edinburgh inventory. Neuropsychologia 9, 97–113.
+
+19. Gozli, D. G., Bavelier, D., and Pratt, J. (2014). The effect of action video
+game playing on sensorimotor learning: Evidence from a movement tracking task.
+Hum. Mov. Sci. 38C, 152–162.
+
+20. Lynch, J., Aughwane, P., and Hammond, T. M. (2010). Video games and surgical
+ability: a literature review. J. Surg. Educ. 67, 184–189.
+
+21. Li, L., Chen, R., and Chen, J. (2016). Playing action video games improves
+visuomotor control. Psychol. Sci. 27, 1092–1108.
+
+22. Krakauer, J. W., Ghilardi, M. F., and Ghez, C. (1999). Independent learning
+of internal models for kinematic and dynamic control of reaching. Nat. Neurosci.
+2, 1026–1031.
+
+23. Brayanov, J. B., Press, D. Z., and Smith, M. A. (2012). Motor memory is
+encoded as a gain-field combination of intrinsic and extrinsic action
+representations. J. Neurosci. 32, 14951–14965.
+
+24. Leukel, C., Gollhofer, A., and Taube, W. (2015). In Experts, underlying
+processes that drive visuomotor adaptation are different than in Novices. Front.
+Hum. Neurosci. 9, 50.
+
+25. Georgopoulos, A. P., Kalaska, J. F., Caminiti, R., and Massey, J. T. (1982).
+On the relations between the direction of two-dimensional arm movements and cell
+discharge in primate motor cortex. J. Neurosci. 2, 1527–1537.
+
+26. Scott, S. H., Gribble, P. L., Graham, K. M., and Cabel, D. W. (2001).
+Dissociation between hand motion and population vectors from neural activity in
+motor cortex. Nature 413, 161–165.
+
+27. Holm, S. (1979). A simple sequentially rejective multiple test procedure.
+Scandinavian journal of statistics.
+
+28. Thoroughman, K. A., and Shadmehr, R. (2000). Learning of action through
+adaptive combination of motor primitives. Nature 407, 742–747.
+
+29. Cheng, S., and Sabes, P. N. (2006). Modeling sensorimotor learning with
+linear dynamical systems. Neural Comput. 18, 760–793.
+
+30. Wolpert, D. M., Miall, R. C., and Kawato, M. (1998). Internal models in the
+cerebellum. Trends Cogn Sci (Regul Ed) 2, 338–347.
+
+31. Poggio, T., and Bizzi, E. (2004). Generalization in vision and motor
+control. Nature 431, 768–774.
+
+32. Smith, M. A., Ghazizadeh, A., and Shadmehr, R. (2006). Interacting adaptive
+processes with different timescales underlie short-term motor learning. PLoS
+Biol. 4, e179.
+
+33. McDougle, S. D., Ivry, R. B., and Taylor, J. A. (2016). Taking aim at the
+cognitive side of learning in sensorimotor adaptation tasks. Trends Cogn Sci
+(Regul Ed) 20, 535–544.
+
+34. Heuer, H., and Hegele, M. (2011). Generalization of implicit and explicit
+adjustments to visuomotor rotations across the workspace in younger and older
+adults. J. Neurophysiol. 106, 2078–2085.
+
+35. McDougle, S. D., Bond, K. M., and Taylor, J. A. (2017). Implications of
+plan-based generalization in sensorimotor adaptation. J. Neurophysiol. 118,
+383–393.
+
+36. Kast, V., and Leukel, C. (2016). Motor Experts Care about Consistency and
+Are Reluctant to Change Motor Outcome. PLoS ONE 11, e0161798.
+
+37. Willingham, D. B. (1998). A neuropsychological theory of motor skill
+learning. Psychol. Rev. 105, 558–584.
+
+38. Hinder, M. R., Walk, L., Woolley, D. G., Riek, S., and Carson, R. G. (2007).
+The interference effects of non-rotated versus counter-rotated trials in
+visuomotor adaptation. Exp. Brain Res. 180, 629–640.
+
+39. Sadnicka, A., Patani, B., Saifee, T. A., Kassavetis, P., Pareés, I.,
+Korlipara, P., Bhatia, K. P., Rothwell, J. C., Galea, J. M., and Edwards, M. J.
+(2014). Normal motor adaptation in cervical dystonia: a fundamental cerebellar
+computation is intact. Cerebellum 13, 558–567.
+
+40. Haar, S., Donchin, O., and Dinstein, I. (2015). Dissociating visual and
+motor directional selectivity using visuomotor adaptation. J. Neurosci. 35,
+6813–6821.
+
+41. Jalali, R., Chowdhury, A., Wilson, M., Miall, R. C., and Galea, J. M.
+(2018). Neural changes associated with cerebellar tDCS studied using MR
+spectroscopy. Exp. Brain Res. 236, 997–1006.
+
+42. Nakagawa-Silva, A., B. Gouveia, E., and B. Soares, A. (2018). A FRAMEWORK
+FOR VISUOMOTOR ADAPTATION STUDIES. In Anais do V Congresso Brasileiro de
+Eletromiografia e Cinesiologia e X Simpósio de Engenharia Biomédica (Uberlândia,
+Minas Gerais: Even3).
+
+43. Wu, H. G., Miyamoto, Y. R., Gonzalez Castro, L. N., Ölveczky, B. P., and
+Smith, M. A. (2014). Temporal structure of motor variability is dynamically
+regulated and predicts motor learning ability. Nat. Neurosci. 17, 312–321.
+
+44. Fernandez-Ruiz, J., Wong, W., Armstrong, I. T., and Flanagan, J. R. (2011).
+Relation between reaction time and reach errors during visuomotor adaptation.
+Behav. Brain Res. 219, 8–14.
+
+45. Anguera, J. A., Reuter-Lorenz, P. A., Willingham, D. T., and Seidler, R. D.
+(2011). Failure to engage spatial working memory contributes to age-related
+declines in visuomotor learning. J. Cogn. Neurosci. 23, 11–25.
+
+46. Anguera, J. A., Reuter-Lorenz, P. A., Willingham, D. T., and Seidler, R. D.
+(2010). Contributions of spatial working memory to visuomotor learning. J. Cogn.
+Neurosci. 22, 1917–1930.
+
+47. MacKenzie, I. S. (1995). Movement Time Prediction in Human-Computer
+Interfaces. In Readings in human–computer interaction (Elsevier), pp. 483–493.
+
+48. Green, C. S., and Bavelier, D. (2003). Action video game modifies visual
+selective attention. Nature 423, 534–537.
+
+49. Bavelier, D., and Green, C. S. (2019). Enhancing Attentional Control:
+Lessons from Action Video Games. Neuron 104, 147–163.
+
+50. Debats, N. B., and Heuer, H. (2018). Explicit knowledge of sensory
+non-redundancy can reduce the strength of multisensory integration. Psychol.
+Res.
+
+51. Bédard, P., and Song, J.-H. (2013). Attention modulates generalization of
+visuomotor adaptation. J. Vis. 13, 12.
+
+52. Wang, T. S. L., and Song, J.-H. (2017). Impaired visuomotor generalization
+by inconsistent attentional contexts. J. Neurophysiol. 118, 1709–1719.
+
+53. Seidler, R. D. (2006). Differential effects of age on sequence learning and
+sensorimotor adaptation. Brain Res. Bull. 70, 337–346.
+
+54. Voelcker-Rehage, C. (2008). Motor-skill learning in older adults—a review of
+studies on age-related differences. Eur. Rev. Aging Phys. Act. 5, 5–16.
+
+55. King, B. R., Fogel, S. M., Albouy, G., and Doyon, J. (2013). Neural
+correlates of the age-related changes in motor sequence learning and motor
+adaptation in older adults. Front. Hum. Neurosci. 7, 142.
+
+56. Buch, E. R., Young, S., and Contreras-Vidal, J. L. (2003). Visuomotor
+adaptation in normal aging. Learn. Mem. 10, 55–63.
+
+57. Mazzoni, P., and Krakauer, J. W. (2006). An implicit plan overrides an
+explicit strategy during visuomotor adaptation. J. Neurosci. 26, 3642–3645.
+
+58. Taylor, J. A., Krakauer, J. W., and Ivry, R. B. (2014). Explicit and
+implicit contributions to learning in a sensorimotor adaptation task. J.
+Neurosci. 34, 3023–3032.
+
+59. Bond, K. M., and Taylor, J. A. (2015). Flexible explicit but rigid implicit
+learning in a visuomotor adaptation task. J. Neurophysiol. 113, 3836–3849.
+
+60. Haith, A. M., Huberdeau, D. M., and Krakauer, J. W. (2015). The influence of
+movement preparation time on the expression of visuomotor learning and savings.
+J. Neurosci. 35, 5109–5117.
+
+61. Leow, L.-A., Gunn, R., Marinovic, W., and Carroll, T. J. (2017). Estimating
+the implicit component of visuomotor rotation learning by constraining movement
+preparation time. J. Neurophysiol. 118, 666–676.
+
+62. Buckley, C. E., Kavanagh, D. O., Nugent, E., Ryan, D., Traynor, O. J., and
+Neary, P. C. (2014). The impact of aptitude on the learning curve for
+laparoscopic suturing. Am. J. Surg. 207, 263–270.
+
+
