@@ -1,9 +1,9 @@
-\documentclass[jou, 11pt, longtable, floatsintext, notab]{apa6}
+\documentclass[man, 11pt, longtable, floatsintext, notab]{apa6}
 
 \usepackage{epsf, epsfig, amssymb, amsmath, xcolor,
   booktabs, colortbl, rotating, setspace, fancyhdr}
 
-% \usepackage{endfloat}
+\usepackage{endfloat}
 \usepackage{float}
 \restylefloat{table}
 \usepackage[utf8]{inputenc}
@@ -209,7 +209,7 @@ adaptation and generalization experiments
 \cite{krakauer_learning_2000},\cite{krakauer_independent_1999},\cite{brayanov_motor_2012}
 as well as recent studies investigating group differences in
 visuomotor learning \cite{leukel_experts_2015}.
-\begin{figure*}[h!]
+\begin{figure*}[h]
   \centering
   \includegraphics[width=1.0\textwidth]{figures/fig_1.pdf}
   \caption{\scriptsize
@@ -389,12 +389,6 @@ the current state changes to compensate for the last
 experienced error (i.e., $\alpha$ is the \emph{learning
 rate}).
 
-% The parameter captures the tendency for the adapted
-% response to decay towards baseline levels with each
-% subsequent movement and accounts for the fact that
-% adaptation typically plateaus short of perfect compensation
-% for the perturbation (Vaswani et al. 2015).
-
 Equations \ref{eq_simple_err} and \ref{eq_simple_x} describe
 a model of how motor commands are computed to accomplish a
 single motor goal (e.g., reach to the training target that
@@ -570,7 +564,7 @@ the bootstrap estimated sampling distribution.
 
 \begin{figure*}[t]
   \centering
-  \includegraphics[width=1.0\textwidth]{figures/fig_results.pdf}
+  \includegraphics[width=1.0\textwidth]{figures/fig_2.pdf}
   \caption{\scriptsize
    \textbf{A:} Mean handle angles for controls.
    \textbf{B:} Generalization for controls. Colored dots
@@ -687,16 +681,16 @@ effect of GROUP was also significant ($F_{1,1} = 12276, p_h
 indicating that experts’ pattern of generalization across
 targets was different from controls.
 
-\begin{figure}[h]
+\begin{figure*}[h]
   \centering
-  \includegraphics[width=0.5\textwidth]{figures/fig_params.pdf}
+  \includegraphics[width=1.0\textwidth]{figures/fig_3.pdf}
   \caption{\scriptsize
     Bootstrap estimated sampling distributions for every
     parameter in the fitted models. Control data is blue, Expert
     data is orange.
   }
   \label{fig_params}
-\end{figure}
+\end{figure*}
 \subsection{State-Space Modelling}
 We also performed state-space modelling (see methods). The
 predicted performance from the best fitting model is shown
@@ -882,7 +876,6 @@ hand, over-generalisation may lead to interference when
 perturbations are highly variable such as when the camera
 position needs to be adjusted repeatedly to obtain a
 suitable view of the workspace.
-
 
 \subsection{Transfer cost in controls, but not experts}
 We observed a large difference between groups in the best
